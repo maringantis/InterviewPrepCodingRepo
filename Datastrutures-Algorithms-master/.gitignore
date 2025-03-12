@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DS_Algo/Debug
+/.vs
+/DS_Algo/.vs/DS_Algo/v15
+/Datastrutures-Algorithms/.vs
+/Datastrutures-Algorithms/Debug
+/Datastrutures-Algorithms/x64/Debug
+/Datastrutures-Algorithms/x64/Release
+/Datastrutures-Algorithms-Java/nbproject/private/
+/Datastrutures-Algorithms-CSharp/obj/Debug
+/Datastrutures-Algorithms-CSharp/bin
+/Datastrutures-Algorithms-CSharp/obj/Release

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPWorkspace" Database="" Version="10.0.0">
+  <VirtualDirectory Name="Datastructures-Alogorithms">
+    <VirtualDirectory Name="Sorting">
+      <Project Name="BubbleSort" Path="BubbleSort/BubbleSort.project" Active="No"/>
+      <Project Name="SelectionSort" Path="SelectionSort/SelectionSort.project" Active="No"/>
+      <Project Name="InsertionSort" Path="InsertionSort/InsertionSort.project" Active="No"/>
+      <Project Name="MergeSort" Path="New folder/MergeSort/MergeSort.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="LinkedList">
+      <Project Name="SingleLinkedList" Path="SingleLinkedList/SingleLinkedList.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Binary Trees">
+      <VirtualDirectory Name="BST">
+        <Project Name="BST" Path="BST/BST.project" Active="No"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Stacks">
+      <Project Name="StackUsingLinkedList" Path="StackUsingLinkedList/StackUsingLinkedList.project" Active="No"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="General">
+    <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
+    <VirtualDirectory Name="Array">
+      <Project Name="RemoveDuplicatesFromSortedArray" Path="RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Strings">
+      <Project Name="ReverseString" Path="ReverseString/ReverseString.project" Active="No"/>
+      <Project Name="ReverseNumber" Path="ReverseNumber/ReverseNumber.project" Active="No"/>
+      <Project Name="FirstUniqueCharInString" Path="FirstUniqueCharInString/FirstUniqueCharInString.project" Active="No"/>
+      <Project Name="ValidAnagram" Path="ValidAnagram/ValidAnagram.project" Active="No"/>
+      <Project Name="isPalindrome" Path="isPalindrome/isPalindrome.project" Active="No"/>
+      <Project Name="StringPyramid" Path="StringPyramid/StringPyramid.project" Active="No"/>
+      <Project Name="AnagramDiff" Path="AnagramDiff/AnagramDiff.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Vectors">
+      <Project Name="VectorExample" Path="VectorExample/VectorExample.project" Active="No"/>
+      <Project Name="FizzBuzz" Path="FizzBuzz/FizzBuzz.project" Active="No"/>
+      <Project Name="VectorOfVectors" Path="VectorOfVectors/VectorOfVectors.project" Active="No"/>
+    </VirtualDirectory>
+    <Project Name="CountingPrimes" Path="CountingPrimes/CountingPrimes.project" Active="No"/>
+    <VirtualDirectory Name="Pointers">
+      <Project Name="PointerExample" Path="PointerExample/PointerExample.project" Active="No"/>
+      <Project Name="DerefPointer" Path="DerefPointer/DerefPointer.project" Active="No"/>
+      <Project Name="DerefVectorPointer" Path="DerefVectorPointer/DerefVectorPointer.project" Active="No"/>
+      <Project Name="DynamicMemAllocation" Path="DynamicMemAllocation/DynamicMemAllocation.project" Active="No"/>
+      <Project Name="PointerArithmetic" Path="PointerArithmetic/PointerArithmetic.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="References">
+      <Project Name="ReferenceInVectors" Path="ReferenceInVectors/ReferenceInVectors.project" Active="No"/>
+      <Project Name="CallByReferences" Path="CallByReferences/CallByReferences.project" Active="No"/>
+    </VirtualDirectory>
+    <VirtualDirectory Name="Iterators">
+      <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
+    </VirtualDirectory>
+    <Project Name="Debugger" Path="Debugger/Debugger.project" Active="No"/>
+    <VirtualDirectory Name="OOP">
+      <Project Name="Class_Objects" Path="Class_Objects/Class_Objects.project" Active="No"/>
+      <Project Name="DeclareClassAndObjects" Path="DeclareClassAndObjects/DeclareClassAndObjects.project" Active="No"/>
+      <Project Name="AccessingClassMembers" Path="AccessingClassMembers/AccessingClassMembers.project" Active="No"/>
+      <Project Name="AccessModifers" Path="AccessModifers/AccessModifers.project" Active="No"/>
+      <Project Name="ImplementingMethods" Path="ImplementingMethods/ImplementingMethods.project" Active="No"/>
+      <Project Name="ClassAndHeaderExample" Path="ClassAndHeaderExample/ClassAndHeaderExample.project" Active="No"/>
+      <VirtualDirectory Name="Constructors">
+        <Project Name="ConstructorsAndDestrctors" Path="ConstructorsAndDestrctors/ConstructorsAndDestrctors.project" Active="No"/>
+        <Project Name="DefaultConstructor" Path="DefaultConstructor/DefaultConstructor.project" Active="No"/>
+        <Project Name="ConstructorInitializationList" Path="ConstructorInitializationList/ConstructorInitializationList.project" Active="No"/>
+        <Project Name="DelegatingConstructors" Path="DelegatingConstructors/DelegatingConstructors.project" Active="No"/>
+        <Project Name="DefaultConstructorParameters" Path="DefaultConstructorParameters/DefaultConstructorParameters.project" Active="No"/>
+        <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
+      </VirtualDirectory>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <VirtualDirectory Name="CPP-Templates">
+    <Project Name="CPP-Temp-Final" Path="CPP-Temp-Final/CPP-Temp-Final.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="PointerExample" ConfigName="Debug"/>
+      <Project Name="SingleLinkedList" ConfigName="Debug"/>
+      <Project Name="VectorExample" ConfigName="Debug"/>
+      <Project Name="MixedExpressions" ConfigName="Debug"/>
+      <Project Name="SelectionSort" ConfigName="Debug"/>
+      <Project Name="RangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="BubbleSort" ConfigName="Debug"/>
+      <Project Name="InsertionSort" ConfigName="Debug"/>
+      <Project Name="MergeSort" ConfigName="Debug"/>
+      <Project Name="RemoveDuplicatesFromSortedArray" ConfigName="Debug"/>
+      <Project Name="ReverseString" ConfigName="Debug"/>
+      <Project Name="CPP-Temp-Final" ConfigName="Debug"/>
+      <Project Name="ReverseNumber" ConfigName="Debug"/>
+      <Project Name="FirstUniqueCharInString" ConfigName="Debug"/>
+      <Project Name="ValidAnagram" ConfigName="Debug"/>
+      <Project Name="isPalindrome" ConfigName="Debug"/>
+      <Project Name="StringPyramid" ConfigName="Debug"/>
+      <Project Name="FizzBuzz" ConfigName="Debug"/>
+      <Project Name="CountingPrimes" ConfigName="Debug"/>
+      <Project Name="VectorOfVectors" ConfigName="Debug"/>
+      <Project Name="DerefPointer" ConfigName="Debug"/>
+      <Project Name="DerefVectorPointer" ConfigName="Debug"/>
+      <Project Name="DynamicMemAllocation" ConfigName="Debug"/>
+      <Project Name="AnagramDiff" ConfigName="Debug"/>
+      <Project Name="PointerArithmetic" ConfigName="Debug"/>
+      <Project Name="ReferenceInVectors" ConfigName="Debug"/>
+      <Project Name="CallByReferences" ConfigName="Debug"/>
+      <Project Name="Debugger" ConfigName="Debug"/>
+      <Project Name="DeclareClassAndObjects" ConfigName="Debug"/>
+      <Project Name="AccessingClassMembers" ConfigName="Debug"/>
+      <Project Name="AccessModifers" ConfigName="Debug"/>
+      <Project Name="ImplementingMethods" ConfigName="Debug"/>
+      <Project Name="BST" ConfigName="Debug"/>
+      <Project Name="ClassAndHeaderExample" ConfigName="Debug"/>
+      <Project Name="ConstructorsAndDestrctors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructor" ConfigName="Debug"/>
+      <Project Name="ConstructorInitializationList" ConfigName="Debug"/>
+      <Project Name="DelegatingConstructors" ConfigName="Debug"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+      <Project Name="StackUsingLinkedList" ConfigName="Debug"/>
+      <Project Name="MergeSort" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="PointerExample" ConfigName="Release"/>
+      <Project Name="SingleLinkedList" ConfigName="Release"/>
+      <Project Name="VectorExample" ConfigName="Release"/>
+      <Project Name="MixedExpressions" ConfigName="Release"/>
+      <Project Name="SelectionSort" ConfigName="Release"/>
+      <Project Name="RangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="BubbleSort" ConfigName="Release"/>
+      <Project Name="InsertionSort" ConfigName="Release"/>
+      <Project Name="MergeSort" ConfigName="Release"/>
+      <Project Name="RemoveDuplicatesFromSortedArray" ConfigName="Release"/>
+      <Project Name="ReverseString" ConfigName="Release"/>
+      <Project Name="CPP-Temp-Final" ConfigName="Release"/>
+      <Project Name="ReverseNumber" ConfigName="Release"/>
+      <Project Name="FirstUniqueCharInString" ConfigName="Release"/>
+      <Project Name="ValidAnagram" ConfigName="Release"/>
+      <Project Name="isPalindrome" ConfigName="Release"/>
+      <Project Name="StringPyramid" ConfigName="Release"/>
+      <Project Name="FizzBuzz" ConfigName="Release"/>
+      <Project Name="CountingPrimes" ConfigName="Release"/>
+      <Project Name="VectorOfVectors" ConfigName="Release"/>
+      <Project Name="DerefPointer" ConfigName="Release"/>
+      <Project Name="DerefVectorPointer" ConfigName="Release"/>
+      <Project Name="DynamicMemAllocation" ConfigName="Release"/>
+      <Project Name="AnagramDiff" ConfigName="Release"/>
+      <Project Name="PointerArithmetic" ConfigName="Release"/>
+      <Project Name="ReferenceInVectors" ConfigName="Release"/>
+      <Project Name="CallByReferences" ConfigName="Release"/>
+      <Project Name="Debugger" ConfigName="Release"/>
+      <Project Name="DeclareClassAndObjects" ConfigName="Release"/>
+      <Project Name="AccessingClassMembers" ConfigName="Release"/>
+      <Project Name="AccessModifers" ConfigName="Release"/>
+      <Project Name="ImplementingMethods" ConfigName="Release"/>
+      <Project Name="BST" ConfigName="Release"/>
+      <Project Name="ClassAndHeaderExample" ConfigName="Release"/>
+      <Project Name="ConstructorsAndDestrctors" ConfigName="Release"/>
+      <Project Name="DefaultConstructor" ConfigName="Release"/>
+      <Project Name="ConstructorInitializationList" ConfigName="Release"/>
+      <Project Name="DelegatingConstructors" ConfigName="Release"/>
+      <Project Name="DefaultConstructorParameters" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+      <Project Name="StackUsingLinkedList" ConfigName="Release"/>
+      <Project Name="MergeSort" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Datastrutures-Algorithms-Python", "Datastrutures-Algorithms-Python\Datastrutures-Algorithms-Python.pyproj", "{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Datastrutures-Algorithms-CPP", "Datastrutures-Algorithms-CPP\Datastrutures-Algorithms-CPP.vcxproj", "{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datastrutures-Algorithms-CSharp", "Datastrutures-Algorithms-CSharp\Datastrutures-Algorithms-CSharp.csproj", "{0256BE2D-C418-493E-9434-472636CC5D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}.Release|x64.ActiveCfg = Release|Any CPU
+		{DC4BB24B-35C1-4BC9-B607-B93FF19EBA18}.Release|x86.ActiveCfg = Release|Any CPU
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Debug|x64.ActiveCfg = Debug|x64
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Debug|x64.Build.0 = Debug|x64
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Debug|x86.Build.0 = Debug|Win32
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Release|Any CPU.ActiveCfg = Release|Win32
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Release|x64.ActiveCfg = Release|x64
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Release|x64.Build.0 = Release|x64
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Release|x86.ActiveCfg = Release|Win32
+		{8B6AA3D0-D6D5-4905-BB7F-6DAA5061FBAA}.Release|x86.Build.0 = Release|Win32
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Debug|x64.Build.0 = Debug|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Debug|x86.Build.0 = Debug|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Release|x64.ActiveCfg = Release|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Release|x64.Build.0 = Release|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Release|x86.ActiveCfg = Release|Any CPU
+		{0256BE2D-C418-493E-9434-472636CC5D1E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5834B19-DACA-4681-88F5-7912D1C798D8}
+	EndGlobalSection
+EndGlobal
